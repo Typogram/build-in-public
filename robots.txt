@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://typogram.co/build-in-public/sitemap.xml
