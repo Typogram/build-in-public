@@ -3,12 +3,100 @@
     <title>Typogram Build-in-Public</title>
     <link href="https://typogram.co/build/feed.xml" rel="self" />
     <link href="https://typogram.co/build" />
-    <updated>2023-07-11T02:48:11-04:00</updated>
+    <updated>2023-07-12T17:06:17-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/build</id>
 
+    <entry>
+        <title>A Day in the Life of a Growth Hacker</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/thinking-about-saas-growth-hacking/"/>
+        <id>https://typogram.co/build/thinking-about-saas-growth-hacking/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-12T17:06:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/26/Cover-Image.png" alt="A Day in the Life of a Growth Hacker" />
+                    Recently my newsletter subscriber count and product sales are stalling after the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/26/Cover-Image.png" alt="A Day in the Life of a Growth Hacker" />
+                <div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Recently my newsletter subscriber count and product sales are stalling after the initial boost. It got me worried. </span></div>
+</figure>
+</div>
+<p>Marketing on Twitter, IndieHackers, and HackerNews helped a little, but it also brought down my productivity; hence yesterday’s newsletter subject “<a href="https://wentin.substack.com/p/fighting-unproductiveness" target="_blank" rel="noopener noreferrer">Fighting Unproductivities</a>.” I need to brainstorm new strategies to growth-hack. I started by listing my unique advantages and disadvantages. </p>
+<h2 class="header-with-anchor-widget">Disadvantage</h2>
+<ul>
+<li>
+<p>Low Twitter engagement</p>
+</li>
+</ul>
+<p>I have 3,700 followers, accumulated over five years via passion projects – I launched each project with a link to my Twitter profile. However, I rarely tweeted; my tweet count is lower than some accounts with three months of history. I failed to create engaging tweets to keep followers interested. Now I have suddenly become actively promoting my content on Twitter, but the engagement is low. </p>
+<p><strong>Idea:</strong> I should not growth-hack on Twitter. Instead, I should create original non-self-promo tweets to get back on track first.</p>
+<h2 class="header-with-anchor-widget">Advantage</h2>
+<ul>
+<li>
+<p>I own a few popular sites</p>
+</li>
+</ul>
+<p>One thing I did right over the years was passion projects. I have a few project sites with consistent visitor streams. </p>
+<p><strong>Idea:</strong> maybe some of the visitors could be interested in my recent work? I can add a modal to these sites that lead visitors to my latest work.</p>
+<p>I took a look at google analytics to see which site is the most popular. The most popular sites that I own are:</p>
+<ul>
+<li>
+<p><a href="https://cssicon.space" target="_blank" rel="noopener noreferrer">cssicon.space</a></p>
+</li>
+<li>
+<p><a href="play.typedetail.com" target="_blank" rel="noopener noreferrer">play.typedetail.com</a></p>
+</li>
+<li>
+<p><a href="https://typedetail.com/" target="_blank" rel="noopener noreferrer">typedetail.com</a></p>
+</li>
+</ul>
+<p>I started to design the modal pop-up interaction. My favorite place to get inspiration for interactive animation is <a href="http://tympanus.net/codrops/" target="_blank" rel="noopener noreferrer">Codrops</a>. This is what I ended up with after experimenting with a few different options:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif 1456w" alt="" width="853" height="480" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/407575e7-9933-475f-b3d4-8dfc2587047c_853x480.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:480,&quot;width&quot;:853,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:967184,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<div><hr></div>
+<p>Now I need to design an eye-catching, convincing modal layout with a call to action. I want it to have a non-standard look so that people won’t mistake it as an ads at first glance. I went through a series of small changes until I settle at last:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png 1456w" alt="" width="1456" height="1194" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d5dd4485-cab9-4d31-b6ed-3f956da30aee_2000x1640.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1194,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:675442,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>The three iterations in the last row don’t look very different, do they? What I changed between 7 and 8 was the font for the apostrophe. I like the more traditional look and think it is more fitting for the rest of the letters:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png 1456w" alt="" width="1200" height="360" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f313a676-083b-41bc-a57f-3eddf91bd208_1200x360.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:360,&quot;width&quot;:1200,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:19694,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>Combine the modal interaction with the layout design; this is what I ended today’s work with:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif 1456w" alt="" width="853" height="480" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/aede4f44-8381-4525-8d17-8e927f8461a7_853x480.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:480,&quot;width&quot;:853,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1146954,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>Tomorrow I will code this up and make it modular so that I can customize the font and color schemes to fit different sites that I own. Stay tuned for my progress reports on the coding part! </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>On Adobe Acquiring Figma</title>
         <author>
@@ -526,37 +614,6 @@
 </figure>
 </div>
 <p>I said “one day” in the title, but truth be told, what I have is only a proof of concept. I am improving it and hope to launch it as a product soon. My apologies that today’s update is late! I will get better next time, I promise!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Thoughts on Running a Startup vs. Passion Project</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/startup-and-passion-projects/"/>
-        <id>https://typogram.co/build/startup-and-passion-projects/</id>
-
-        <updated>2022-09-01T18:15:34-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/16/cover-image.png" alt="Thoughts on Running a Startup vs. Passion Project" />
-                    Today is my 4th day, and I am in the process of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/16/cover-image.png" alt="Thoughts on Running a Startup vs. Passion Project" />
-                <p><img loading="lazy" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2e4c36b-81d1-4056-87d8-640517810114_1920x1080.png" data-is-external-image="true" ></p>
-<p>Today is my 4th day, and I am in the process of onboarding to my new role. “Onboarding” is what my cofounder Hua calls it, and I do need it! Startups are different from passion projects. Passion projects are fueled by passion. Startups are fueled by passion and “more.”</p>
-<p>On my first day, I wrote a piece about why I quit my cushy tech job to pursue my own thing. The post got a lot of comments on IndieHackers. I often get asked why I don’t stay at my job and run it as a side hustle. It is a fair question; my mom asked me this too.</p>
-<p>Avoiding conflict of interest is one of the reasons. I want to run an ethical business. I can imagine it to work for some jobs, but as far as I know, most tech job doesn’t by default allow it. You need to submit a form to get the employer’s approval to run a side business.</p>
-<p>Another reason is that I am not underestimating the difficulty of running a startup. I had past success running passion projects. I got media exposure, the Adobe offer, and invitations to give talks because of passion projects. But it doesn’t translate to startup success.</p>
-<p>Startup comes with challenges that are not fun, but you are not allowed to move on. If a passion project stops being fun, I will move on to the next fun project. In fact, I recommend that you move on! The project that is burning the most passion will be the most successful one.</p>
-<p>No-fun challenges will consume the most energy! Passion projects give energy back, and that is why I do them! But not-so-fun challenges consume me, and it is not about the time. Something could take minutes to do but hours or days of energy to recover from it.</p>
-<p>If I run a startup like the way I run passion projects, I am bound to fail. I am fully anticipating the challenges and willing to devote energy to them to make it work. I am not saying everyone has to quit their job to run a startup, but I believe that I do.</p>
-<p>Progress update: today, I am exploring using Notion as a #nocode platform to make Hua’s workshop kit more friendly to run online digitally. I shared about how to run that workshop with arts and crafts home-made workshop props yesterday; check it out if you missed it here.</p>
-<p>I will share more about the Notion version tomorrow. If you know some Notion geek friends, please share my newsletter so we can make friends.</p>
             ]]>
         </content>
     </entry>
