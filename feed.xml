@@ -3,12 +3,89 @@
     <title>Typogram Build-in-Public</title>
     <link href="https://typogram.co/build/feed.xml" rel="self" />
     <link href="https://typogram.co/build" />
-    <updated>2023-07-13T18:00:05-04:00</updated>
+    <updated>2023-07-13T18:23:05-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/build</id>
 
+    <entry>
+        <title>Lessons Learned on How to Run a Newsletter</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/lessons-learned-on-how-to-run-a-newsletter/"/>
+        <id>https://typogram.co/build/lessons-learned-on-how-to-run-a-newsletter/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T18:23:05-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/28/Cover-Image.png" alt="" />
+                    I have been running this newsletter daily for three weeks. While it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/28/Cover-Image.png" alt="" />
+                <div class="captioned-image-container">
+<figure>
+<div class="image2-inset">
+<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I have been running this newsletter daily for three weeks. While it is not long, I think it is good to reflect on the learning, share, and self-optimize. </span></div>
+</div>
+</figure>
+</div>
+<h2 class="header-with-anchor-widget">What I knew before starting:</h2>
+<ul>
+<li>
+<p>Showing up consistently is essential.</p>
+</li>
+</ul>
+<p>I think #1 applies to many other fields as well. Overnight success does happen, but nobody can count on it. The majority of success stories are made by consistently showing up day after day. Consistently being good will make you great. </p>
+<ul>
+<li>
+<p>Open-rate will naturally drop when subscriber count climbs up.</p>
+</li>
+</ul>
+<p>This lesson was passed on to me by my co-founder, who has been running newsletters for six months. Knowing open-rate will drop naturally set up my expectation correctly, so I am not worrisome when it happens. Be warned: it is easy to be kidnapped by the stats.</p>
+<h2 class="header-with-anchor-widget">What I learned from the process of running my newsletters:</h2>
+<ul>
+<li>
+<p>Don’t correlate the number of new signups with the quality of your writing.</p>
+</li>
+</ul>
+<p>The quality of your overall writing is essential and will affect your growth in the long term. However, it is not equally valid at the micro-level. If I had fewer new signups after the last newsletter, it doesn’t necessarily mean that newsletter is terrible. This is the open rate and new signups for each newsletter:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 1456w" sizes="100vw"></picture>
+<figure class="post__image" ><img loading="lazy" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png 1456w" alt="my startup newsletter" width="1280" height="818" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/37252637-8d05-4baf-bb4a-ec5e86852065_1135x566.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:566,&quot;width&quot;:1135,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:82872,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}">
+<figcaption >Check out the data in detail <a href="https://publicnotionpages.notion.site/Newsletter-Stats-9e152727bb2f40d6a1545d7c04ad3289" rel="">here</a>.</figcaption>
+</figure>
+</div>
+</figure>
+</div>
+<ul>
+<li>
+<p>There is no best time in the day to send a newsletter</p>
+</li>
+</ul>
+<p>I thought there would be a prime time to send and tried to test what time works the best. First off, the test didn’t yield any sensible conclusion since I can’t control the parameters: each newsletter has a different title/subject; therefore, I can’t compare their open rates apple to apple. I also find the concept of the best time in the day is false because not all my subscribers are in the same time zone. I need to adopt “a global mindset,” which I wrote about in <a href="https://wentin.substack.com/p/40103611" rel="">Learn by Practice: 3 Lessons from ProductHunt Launch</a>.</p>
+<h2 class="header-with-anchor-widget">What I learned from reading other’s newsletters:</h2>
+<ul>
+<li>
+<p>Cross-reference your content.</p>
+</li>
+</ul>
+<p>After accumulated some content, I can link-reference my previous posts. It will make my writing leaner since I don’t need to repeat the content. It also helps to drive traffic to older posts.</p>
+<ul>
+<li>
+<p>Make valuable content that is worthy of the reader’s time.</p>
+</li>
+</ul>
+<p>This seems obvious. But for the build-in-public type of newsletter, it is tempting just to document daily work to keep it raw. I find it more healthy of a relationship to provide value worthy of readers’ time, maybe by summarizing learning or sharing advice related to that day’s work.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>An Unorthodox Way to Choose Tech Stack</title>
         <author>
@@ -519,80 +596,6 @@
 <p>I could hush together a few paragraphs to put it on Gumroad, so I can check the checkbox of launching a product today. I decided against it. I thought of how many people will see the product page vs. how many people will see this Notion workshop kit I made; the ratio is probably 100:1! For every 100 people who visited the product page, only the few who paid $1 will see the Notion workshop kit. I have spent almost a week on the workshop kit. Do I really want to under-represent my effort? The disproportional effort I put on the 1% won’t be worth it if I don’t work hard for the 99%.</p>
 <p>That is the lesson I learned today. I need to know how to sell! I can’t put 99% of my effort into something that only 1% of site visitors will see and 1% of effort into something 99% of visitors will see. It is disproportion. </p>
 <p>The journey continues! Thanks for tuning in! If you like my content, be sure to sign up for this newsletter.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Updates &amp; Learnings From the First Week</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/learnings-from-the-first-week-as-startup-founder/"/>
-        <id>https://typogram.co/build/learnings-from-the-first-week-as-startup-founder/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-06-28T03:16:17-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/19/Cover-Image-2.png" alt="Updates &amp; Learnings From the First Week" />
-                    Seven days ago, I started fresh into my new job - startup&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/19/Cover-Image-2.png" alt="Updates &amp; Learnings From the First Week" />
-                <div class="captioned-image-container">
-<figure>
-<div class="image2-inset">
-<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Seven days ago, I started fresh into my new job - startup cofounder. I took my cofounder Hua’s advice to launch a 30-day project to kick start as a way to keep my workday structured, and at the same time, validate ideas and get traction. It is very helpful. </span><a href="https://twitter.com/HuaTweets" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">@HuaTweets</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">, thank you!</span></div>
-</div>
-</figure>
-</div>
-<p>The #30DaysOfStartingUp project has been motivating. Every night I feel accomplished going to bed, and every morning I wake up to stats I want to check immediately. The feeling is a familiar one - I was like this when I did passion projects. Stats kidnap me!</p>
-<p>The stats are different from what I am used to with passion projects, though! It is much harder to get people’s attention with a startup than with free passion projects. I had project launches with 20,000 visitors on launch day and got on hacker news's front page.</p>
-<p>Google Analytics for <a href="https://typedetail.com/" target="_blank" rel="noopener noreferrer">Type Detail</a> at the first week:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png 1456w" alt="" width="1456" height="607" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/7c040afb-038d-45bd-b392-8bc96b4ae767_1660x692.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:607,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:75349,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>Google Analytics for <a href="https://cssicon.space/" target="_blank" rel="noopener noreferrer">CSS Icon</a> at the first week:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png 1456w" alt="" width="1456" height="604" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6ec5206b-f20f-4ece-8e76-606d5c57d6c0_1660x689.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:604,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:77538,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>Google Analytics for <a href="https://play.typedetail.com/" target="_blank" rel="noopener noreferrer">Font Playground</a> at the first week:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png 1456w" alt="" width="1456" height="592" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/14ba5266-0c55-4fc1-b4b5-a037f8f11b12_1660x675.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:592,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:80142,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>Now looking at my startup journey in its first week. I promote mostly my newsletter page, the stats of substack page visitors:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png 1456w" alt="" width="1162" height="620" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/fd4bed42-3232-41f3-a7d3-8e7e1588d377_1162x620.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:620,&quot;width&quot;:1162,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:33240,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>My old self would dread seeing this. However, my entrepreneur self looked at it from a different perspective. I learned my first lesson: passion projects are a short game; most of my projects reach their peak on launch day. Startup is a long game. We never want the peak to come.</p>
-<p>Instead, I found encouragement in a different set of stats: the open rate is consistently above 40%. As long as I am putting in good work every day, my dear readers, you, come back to see my content and progress. That is the second lesson I learned: Persistency and consistency work.</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77399c22-b419-4771-ba4a-80c987809bee_1460x584.png 1456w" alt="" width="1456" height="582" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/77399c22-b419-4771-ba4a-80c987809bee_1460x584.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:582,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:77090,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>I am sure there is still overnight success stories out there for startups, for example, Clubhouse. However, personally, I am not tuned into any clubhouse rooms anymore. What remains are the true fans. Overnight success certainly doesn’t hurt, but it is far from being necessary.</p>
-<p>I was originally only planning to write the newsletter daily for 30 days. Now I have a bigger plan after 30 days: I will switch to biweekly and keep it running as long as the startup is open.</p>
             ]]>
         </content>
     </entry>
