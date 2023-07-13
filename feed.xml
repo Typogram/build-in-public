@@ -3,12 +3,94 @@
     <title>Typogram Build-in-Public</title>
     <link href="https://typogram.co/build/feed.xml" rel="self" />
     <link href="https://typogram.co/build" />
-    <updated>2023-07-13T18:23:05-04:00</updated>
+    <updated>2023-07-13T19:03:23-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/build</id>
 
+    <entry>
+        <title>Choose Typefaces Based on Brand Personalities</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/choose-typefaces-based-on-brand-personalities/"/>
+        <id>https://typogram.co/build/choose-typefaces-based-on-brand-personalities/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T19:03:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/29/Cover-Image.png" alt="Choose Typefaces Based on Brand Personalities" />
+                    In Day 2’s newsletter, “Quality Triangle of Startup Branding,” I advise startups&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/29/Cover-Image.png" alt="Choose Typefaces Based on Brand Personalities" />
+                <div class="captioned-image-container">
+<figure>
+<div class="image2-inset">
+<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">In Day 2’s newsletter, “</span><a href="https://typogram.co/build/quality-startup-branding/">Quality Triangle of Startup Branding</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">,” I advise startups to identify brand personalities that can speak to their audiences and then choose a legible typeface that expresses the personalities. I have since launched a </span><a href="https://wentin.gumroad.com/l/brand-workshop" target="_blank" rel="noopener noreferrer">workshop kit</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> to help startups identify the brand personalities in 60mins in three fun steps. I am currently classifying typefaces based on brand personalities.</span></div>
+</div>
+</figure>
+</div>
+<p>The tech part is relatively simple; I used Retool to build a backend that can read and write into a firebase database. Let me know if you are interested to see a review of Retool as a #NoCode tool.</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif 1456w" alt="" width="827" height="484" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/88735c4e-022f-4cec-a68f-c49f8f537467_868x480.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:480,&quot;width&quot;:868,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1297635,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>The process of curating typefaces that express each brand’s personality is the meat of the work. My cofounder Hua has a <a href="https://typogram.co/font-discovery/" title="more in-depth newsletter" target="_blank" rel="noopener noreferrer">more in-depth newsletter</a> about font discovery and how to use them for branding and marketing. In her writing, she covers why certain typefaces are suitable for specific types of brands.</p>
+<p>We have summarized a few criteria that we are looking for when classifying typefaces based on brand personalities:</p>
+<h2 class="header-with-anchor-widget">Visual Characteristics</h2>
+<p>If you find typefaces all look kind of similar to each other, sometimes “identical,” you are not alone. Typefaces are supposed to be that way so that they can be easily recognized as the alphabet. </p>
+<p>Fun story, a friend of mine was pulled over by traffic police once. The police asked what her job was, and she said she is a type designer; with the police still confused, she further explained that she designs letters. The police were even more confused and asked, “what do you mean you design letters? All the letters are already designed.”</p>
+<p>The police got a point, the overall shapes of the alphabet are established, but there are still endless ways to render them. Type designers’ job is to explore endless possibilities, construct systematic styles to render the alphabet, and package them into typefaces. Each typeface has unique visual characteristics that differentiate them from the others; think of it as their “font market fit.” </p>
+<p>The visual characteristics that I am looking at includes:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png 1456w" alt="" width="526" height="484" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/e1272f3f-13f8-4598-bf58-6879b7bc7f45_526x484.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:484,&quot;width&quot;:526,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:31336,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>From these characteristics, I can connect the lines like:</p>
+<ul>
+<li>
+<p>Handwriting font expresses casualness while serif fonts look formal</p>
+</li>
+<li>
+<p>Heavyweight font conveys sturdiness and firmness, while lightweight font conveys elegance</p>
+</li>
+<li>
+<p>Taller x-height fonts look friendlier, while shorter x-height fonts look higher class and maybe even a little snobby about it.</p>
+</li>
+</ul>
+<h2 class="header-with-anchor-widget">Historical Background</h2>
+<p>The historical background of a typeface style also informs their personality. Garamond, a typeface designed in the 15th century, carries legacy and heritage. Therefore it is suitable for universities, law firms, financial institutions, and companies identified with “Classic” brand personality. If you want to learn more about Garamond, Hua wrote <a href="https://typogram.co/font-discovery/how-to-use-eb-garamond-font" title="typogram fontdiscovery" target="_blank" rel="noopener noreferrer">an article about it</a>.</p>
+<p>The historical background factor is very intertwined with the visual characteristics factor; we may associate certain personalities to visual characteristics because of when the visual styles were invented. Foods for thoughts today: if Serif font was created in the 20th century and Sans Serif in the 15th, will we have different views on them? Would “Sans Serif” conveys classy and heritage, and “Serif” conveys modern and freshness? Let me know in the comments what you think!</p>
+<h2 class="header-with-anchor-widget">Cultural Context and Trends</h2>
+<p>How the typeface has been used in pop culture also influences what personality we associate them with. For example, the Didot typeface, with its signature high stroke contrast, is used by fashion magazines Harper’s Bazaar and Vogue. We started to associate its style with fashion. </p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png 1456w" alt="" width="1456" height="989" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/9cf5724f-d8fb-47b2-a0b1-1788cd474d12_1884x1280.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:989,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3515172,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>With that cultural context influencing a generation of designers and consumers, many fashion brands use the Didot style typeface for their branding. For example:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png 1456w" alt="" width="1426" height="598" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/28c3773f-e79c-4d75-9f38-a7b8a56c60b8_1426x598.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:598,&quot;width&quot;:1426,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:77525,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>Pop culture is not static; it has a rhythm of change, which we refer to as the trend. When cultural context shifts, the brand personalities of a certain typeface will also change, unlike the historical background factor, which tends to be more stable. We already see the fashion industry start shifting to Sans Serif typefaces, and one day we may stop associating Didot typeface with Fashionable.</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png 1456w" alt="" width="1456" height="899" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a06871c1-17f8-4d6d-b939-fffad2c6e7c5_1639x1012.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:899,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:191153,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture></div>
+</figure>
+</div>
+<p>I am going to continue to work on tagging typefaces with brand personalities. My goal is to create a brand design app for startups. Stay tuned for more progress!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lessons Learned on How to Run a Newsletter</title>
         <author>
@@ -561,41 +643,6 @@
 <p>Today is one of the situations that I have decided to follow the trend. I am designing to please the eyes of site visitors. No, there is no shame in that! Design is to solve a problem. Today the problem is how do I grab people’s attention in a busy marketplace, so they would stop and look at what I am offering. The solution I found is “Design to Please.”</p>
 <p>Designers should develop their styles, and I do have a style preference, shown in the work I linked in the first paragraph. But it doesn’t hurt to do something else when the problem needs me to. It was an enjoyable break from the style I am familiar with.</p>
 <p>Yesterday, I got some great tips and advice! Thank you! Let me know what you think of the graphics I designed by replying to the email. Is there any way I can improve them before launching the product page? Is it clear that I am selling a brand personality workshop kit in the form of printable PDF and Notion templates?</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Rule of 99% Effort</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/the-rule-of-99-effort-for-startups/"/>
-        <id>https://typogram.co/build/the-rule-of-99-effort-for-startups/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-06-28T03:16:25-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/20/Cover-Image-2.png" alt="The Rule of 99% Effort" />
-                    Last week, I wrote about my journey of developing an idea into&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/20/Cover-Image-2.png" alt="The Rule of 99% Effort" />
-                <div class="captioned-image-container">
-<figure>
-<div class="image2-inset">
-<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Last week, I wrote about my journey of developing an idea into </span><a href="https://typogram.co/build/develop-an-idea-into-a-product-in-one-day/" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">a product in one day</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">. I got a proof of concept working, but the product is not launched yet. I put in more work over the past few days to make it more user-friendly and of higher production quality because I have an ambitious goal: selling it for $1!</span></div>
-</div>
-</figure>
-</div>
-<p>I shared a few screencasts for the workshop kit on the <a href="https://startup.wentin.net/The-Rule-of-99-Effort-5157bdad843c41e68f3fbf1f735dfa65" target="_blank" rel="noopener noreferrer">website</a>. The newsletter format won't allow me to embed videos. </p>
-<p>I was initially planning to launch the Notion workshop kit today. I want to put it out in the world to see the responses: is there an appetite from startup founders to workshop their brand this way? I am eager to see. However, a new problem comes up: marketing.</p>
-<p>I took a look at Gumroad and search for Notion Templates. There is more work: I need to put together a good marketing page! I check out some competitions; every product is presented with a well-written sales pitch and a detailed description of what buyers will get. Then it hits me: I never did this part before. I usually offer things for free, and I would just share the link with the world. Whoever needs it will take it. But selling things are different; even for $1, the game is fundamentally changed.</p>
-<p>I could hush together a few paragraphs to put it on Gumroad, so I can check the checkbox of launching a product today. I decided against it. I thought of how many people will see the product page vs. how many people will see this Notion workshop kit I made; the ratio is probably 100:1! For every 100 people who visited the product page, only the few who paid $1 will see the Notion workshop kit. I have spent almost a week on the workshop kit. Do I really want to under-represent my effort? The disproportional effort I put on the 1% won’t be worth it if I don’t work hard for the 99%.</p>
-<p>That is the lesson I learned today. I need to know how to sell! I can’t put 99% of my effort into something that only 1% of site visitors will see and 1% of effort into something 99% of visitors will see. It is disproportion. </p>
-<p>The journey continues! Thanks for tuning in! If you like my content, be sure to sign up for this newsletter.</p>
             ]]>
         </content>
     </entry>
