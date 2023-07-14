@@ -3,12 +3,265 @@
     <title>Typogram Build-in-Public</title>
     <link href="https://typogram.co/build/feed.xml" rel="self" />
     <link href="https://typogram.co/build" />
-    <updated>2023-07-13T19:03:23-04:00</updated>
+    <updated>2023-07-13T21:50:59-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/build</id>
 
+    <entry>
+        <title>The Ups and Downs of Building in Public</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/the-ups-and-downs-of-building-in-public/"/>
+        <id>https://typogram.co/build/the-ups-and-downs-of-building-in-public/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T21:50:59-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/33/Substack-Cover-Image.png" alt="" />
+                    Today is my 20th-day building my startup in public through this newsletter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/33/Substack-Cover-Image.png" alt="" />
+                <div class="captioned-image-container">
+<figure>
+<div class="image2-inset"> </div>
+</figure>
+</div>
+<p>Today is my 20th-day building my startup in public through this newsletter series. Over this condensed timeframe that I practiced the “build-in-public” concept, I grew new understandings of its whys and hows.</p>
+<p>Build-in-public, in its essence, is creating a new relationship between founder and audience. In the traditional way of running a startup, the founder-audience relationship doesn’t start until the product launches. Build-in-public helps the relationship happen earlier during the development phase. It provides more room for the relationship to grow, engage and create value.</p>
+<p>In healthy relationships, everyone both gives and receives. </p>
+<p><strong>Founders receive: </strong></p>
+<ol>
+<li>
+<p>early product feedback</p>
+</li>
+<li>
+<p>engagement and support</p>
+</li>
+<li>
+<p>be held accountable, momentum</p>
+</li>
+</ol>
+<p>Founders should not take these three gifts for granted. Most build-in-public newsletters are free but don’t adopt that “free” mindset. Readers are paying attention and time, which are the most valuable. I feel grateful to have a growing group of people who checked out my progress daily. They propel me to show up the next day because “if I don’t, someone will notice.” It is healthy accountability to have.</p>
+<p><strong>Founders should give:</strong></p>
+<ol>
+<li>
+<p>Summarized learnings from successful and failed experiments</p>
+</li>
+<li>
+<p>Insight into product design, development, and marketing</p>
+</li>
+<li>
+<p>Transparent stats that can benefit others</p>
+</li>
+</ol>
+<p>In my opinion, the build-in-public experiments would only succeed if founders can also create values for their audiences in return. If it is just a work log, it may not work that well. Founders should put into thoughts how to make it worthwhile for the audience’s time. I am still exploring how to create meaningful content for you. Let me know what you want to see in the future.</p>
+<p>In the past 20 issues of the newsletter, there are a few issues I struggled to write. There are two scenarios when that happens:</p>
+<ol>
+<li>
+<p>I went into an extended flow state. It would be 11:30 pm when I wrapped up work, and I still had a newsletter to write. Yesterday, when I posted <a href="https://typogram.co/build/typeface-finder-app-demo/">Typeface Finder App Demo</a> at 3 am, was one of the cases.</p>
+</li>
+<li>
+<p>I spent the day slacking off and had nothing to write about by the end of the day. <a href="https://typogram.co/build/fighting-unproductiveness-in-startup-life/">Fighting Unproductiveness</a> on Day 12 was one of the cases.</p>
+</li>
+</ol>
+<p>I would wish #1 happens more frequently, but truth be told, #2 is much more likely to occur in my case. I have accepted both versions of me, the flow state me and the slacking off me, and learned to tackle two different problems with an equal mind. Both were difficult, but both had payoffs:</p>
+<p>In the #1 scenario, sticking to the plan and writing the newsletter, even at very late hours, helped me clear my head and the path forward. The writing exercise gave me the space to think about the bigger picture after being knee-deep in the nitty-gritty of craftmanship all day. On a side note, it also forced me to create marketable content such as screenshots or screencasts, which come in handy later. </p>
+<p>In the #2 scenario, I was forced to write about any topic, even unproductiveness itself. It created a space for me to self-reflect and do a thought exercise. Even when it failed at every level, the ritual of delivering the newsletter gave me a feeling of accomplishment: even though I didn’t do anything that day, at least I wrote a newsletter. It is mental trickery that I needed to keep momentum instead of dwelling into an unproductive spiral. With a single accomplishment bagged that day, I can see tomorrow as a fresh start.</p>
+<p>Don’t forget to write to me about what you would like to see in the following issues. Or let me know what drives you to subscribe in the beginning. Your advice and insights are very valuable to me. Thanks for tuning in, and have a wonderful weekend!</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Typeface Finder App Demo</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/typeface-finder-app-demo/"/>
+        <id>https://typogram.co/build/typeface-finder-app-demo/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T21:43:45-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/32/Notion-Cover-Image.png" alt="" />
+                    On Day 16th’s newsletter, Choose Typefaces Based on Brand Personalities, I shared&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/32/Notion-Cover-Image.png" alt="" />
+                <div class="container">
+<div class="single-post">
+<article class="typography newsletter-post post">
+<div class="">
+<div class="available-content">
+<div class="body markup" dir="auto">
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">On Day 16th’s newsletter, </span><a href="https://typogram.co/build/choose-typefaces-based-on-brand-personalities/" title="Typeface Finder App Demo">Choose Typefaces Based on Brand Personalities</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">, I shared my process of tagging typefaces based on brand personalities. I built an internal tool using Retool to help me tag typefaces and then write tagging information into a database.</span></div>
+</figure>
+</div>
+<p>Retool is a low-code platform that requires coding to use, making the initial learning curve a little steep. Once I get the hang of it, I am yearning to make more apps with my newly acquired skills. Retool is created for internal tools, but there is no stop sign to making public apps with it. An idea came to me: <strong>making a web app to help users find typefaces based on brand personalities.</strong></p>
+<p>The first step is to list all brand personalities in our database. <a href="https://twitter.com/HuaTweets" target="_blank" rel="noopener noreferrer">Hua</a> and I spent days narrowing down personality adjectives to this final list:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="post__image"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif 1456w" alt="Typeface Finder App Demo" width="869" height="615" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d4d734ae-08cb-41ae-8fe0-8df4f95d43dd_1270x848.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:848,&quot;width&quot;:1270,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1919602,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>How the app work is simple: user select brand personalities that fit their company, the app shows a list of typefaces tagged with these brand personalities. </p>
+<p>To demo the app, I will use the brand personalities of <a href="https://inverr.com/" target="_blank" rel="noopener noreferrer">inverr</a>, a no-code website builder created by <a href="https://twitter.com/hieuSSR/status/1430363788432142341" rel="">Hieu Nguyen</a>. Hieu is very kind to support us along our journey; he purchased our <a href="https://typogram.co/build/brand-personality-workshop/" target="_blank" rel="noopener noreferrer">brand personality workshop kit</a> and did the workshop for his company’s brand. These are the five adjectives that came out of his workshop: Affordable, Friendly, Modern, Secure, and Simple; I select them from the list in the left column, the middle column starts to get populated with typefaces shown in live specimen.</p>
+<p>The brand personality typefaces sometimes belong to bigger font families with many other weights and styles. It would be helpful for users to access these sibling fonts, so I build an additional feature: when users select a typeface in the middle column, the right column will show all family members of that selected typeface. </p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="post__image"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif 1456w" alt="Typeface Finder App Demo" width="1053" height="622" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/8ac4b5bc-539b-4a28-95cc-9d666fdd9a38_1270x848.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:848,&quot;width&quot;:1270,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:870985,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>All of our tagged typefaces have free-for-commercial-use licenses. Hua made sure of it by checking every typeface’s license; thanks, Hua, for the hard work! That means I can provide more app features like the download fonts button and web font embed code. These features are still under development, as well as refining the app. <a href="https://typogram.co/build/entrepreneurs-last-mile-problem/" target="_blank" rel="noopener noreferrer">The last mile</a> of the project is the most crucial; I am well-prepared to see it through! I will share more about this project in the newsletter.</p>
+<p>Let me know what pain points you have when choosing typefaces or what other features I should add to this app by replying to the email. I can’t wait to hear your ideas. </p>
+</div>
+</div>
+<div class="post-footer">
+<div class="pencraft frontend-pencraft-Box-module__flexGrow--mx4xz frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Box-module__display-flex--ZqeZt frontend-pencraft-Box-module__flex-justify-space-between--NvIcg frontend-pencraft-Box-module__flex-align-center--rSd6h frontend-pencraft-Box-module__flex-gap-16--TpblU frontend-pencraft-Box-module__padding-y-16--ohCEm frontend-pencraft-Box-module__border-top-detail-themed--e17yZ frontend-pencraft-Box-module__border-bottom-detail-themed--eVwFY post-ufi">
+<div class="pencraft frontend-pencraft-Box-module__reset--VfQY8 frontend-pencraft-Box-module__display-flex--ZqeZt frontend-pencraft-Box-module__flex-gap-8--HFpIK">
+<div class="edit-button-container post-ufi-button style-button"> </div>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+<div class="single-post-section comments-section">
+<div class="container"> </div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Never Too Small to Exist</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/never-too-small-to-exist/"/>
+        <id>https://typogram.co/build/never-too-small-to-exist/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T19:38:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/31/Cover-Image.png" alt="" />
+                    The uprising of the NoCode and LowCode movement is not caused by&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/31/Cover-Image.png" alt="" />
+                <div class="post-header">
+<p class="post-title unpublished"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">The uprising of the NoCode and LowCode movement is not caused by people’s resistance to learning code, but the opposite. Product development is getting democratized. It is no longer under the monopoly of bigger companies; a small team or a solo entrepreneur can develop an app and sell it directly to customers. It unlocks creativity, productivity, and new lifestyle options.</span></p>
+</div>
+<div class="">
+<div class="available-content">
+<div class="body markup" dir="auto">
+<p>At first, it was the coders who quitted their jobs and pursued this lifestyle because modern coding frameworks made it possible to develop an app with just one coder. Then we see more people joining, non-coders with product ideas, they venture out to learn to code themselves and find alternative solutions to make their vision coming to life. That is the starting point of NoCode platforms.</p>
+<p>NoCode platform is not replacing coding; it created an entirely new market: many products that would never be developed in the traditional way now have a chance to see the light of day. These are apps serving a small number of users that would not be economical to hand code. Without NoCode, it is not that these users’ problems aren’t solvable; these problems are simply not worthy of solving. Seeing people suffering and wasting time is a shame.</p>
+<p>For example, the <a href="https://typogram.co/build/brand-personality-workshop/">brand workshop kit</a> that I made with Notion - I wouldn’t make it if I couldn’t find a way to do it with NoCode. It is solving too niche of a problem. In the banking and finance industry, there is “too big to fail”; in product making, there was “too small to exist.” However, that is being changed by NoCode platforms! Despite the brand personality workshop kit being a niche need, I would want it to exist. I am thankful that the NoCode platform helped me make it happen.</p>
+<p>When comparing the NoCode and LowCode, I enjoy LowCode platforms more because they allow me to add custom code. It doesn’t need to have a fully-featured code editor embedded inside the app; even a cumbersome code editing experience like a &lt;textarea&gt; field will do. It just needs to have custom code ability so that I can have the creative freedom to build whatever I want while utilizing the NoCode features.</p>
+<p>On the other end, I think traditional tooling can use a dash of code as well! After Effects expression can be seen as an early example of this.</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="post__image"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif 1456w" alt="typogram startup life" width="997" height="203" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a47362bb-8cd4-42ba-a968-aa8663826e52_1000x204.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:204,&quot;width&quot;:1000,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:284173,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div> </div>
+</div>
+</figure>
+</div>
+<p>Perhaps Adobe XD and Figma can add code capability, such as allowing property value to be a dynamic formula, making it more versatile and creative:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="post__image"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png 1456w" alt="typogram startup life" width="1097" height="589" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/85dea650-cc91-4648-ae9d-8103714c7db2_466x214.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:214,&quot;width&quot;:466,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:7124,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div> </div>
+</div>
+</figure>
+</div>
+<p>I hope you enjoy this issue of the newsletter. Have you tried any NoCode or LowCode platforms? I would love to hear recommendations! Let me know by replying to this newsletter.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Entrepreneur’s Last-mile Problem</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/build/entrepreneurs-last-mile-problem/"/>
+        <id>https://typogram.co/build/entrepreneurs-last-mile-problem/</id>
+            <category term="30DaysOfStartingUp"/>
+
+        <updated>2023-07-13T19:26:39-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/build/media/posts/30/Cover-Image.png" alt="" />
+                    When we are making products, the feeling of progress is often deceiving:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/build/media/posts/30/Cover-Image.png" alt="" />
+                <div class="captioned-image-container">
+<figure>
+<div class="image2-inset">
+<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">When we are making products, the feeling of progress is often deceiving: when you feel 95% done, you might be halfway through the journey. The seemingly small last leg of the project requires a slower pace and more attention to detail. What looks like 5% of the work would likely take 50% of the time. </span></div>
+</div>
+</figure>
+</div>
+<p>Last week, I shared a growth hack idea and the start of the execution in Day 13th’s newsletter <a href="https://typogram.co/build/thinking-about-saas-growth-hacking/">A Day in the Life of a Growth Hacker</a>. It was a quick and fun exploration. I spent <a href="https://typogram.co/build/an-unorthodox-way-to-choose-tech-stack/">the following day developing it</a>. The remaining work is adding it into three sites that I owned. I estimated it to be a trivial part of the following day’s work, but it turned out to be false.</p>
+<p>There are two types of people: starter and finisher. Starters live for the creative beginning of projects; finishers enjoy accomplishing the day-to-day work and following through. I am a starter type. My first hurdle of crossing the finishing line is procrastination. I hate to get into the nitty-gritty of the fit and finish work. I am more tempted to start a new project in the meantime.</p>
+<p>Today I finally get into the work I was procrastinating on. I realize there are a lot of details to attend to, even for a small growth hack project.</p>
+<p>The first thing is to make the promotion modal responsive, something I omitted initially:</p>
+<p><img loading="lazy" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabaeb170-e22f-4f96-afc2-5b8ee928660e_1398x908.gif" data-is-external-image="true"  width="1247" height="986"></p>
+<p> </p>
+<p>I added it to the first candidate site: <a href="https://cssicon.space/" rel="">cssicon.space</a>. CSS Icon is the sample site I used to create the template, so everything naturally fits together :</p>
+<p> </p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif 1456w" alt="" width="896" height="641" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/13e7559d-8046-4411-8a14-c1bab8b5a635_1398x908.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:908,&quot;width&quot;:1398,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4916526,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>When adding it to <a href="https://play.typedetail.com/" rel="">Font Playground</a>, I needed to customize the font to fit in with the rest of the app:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif 1456w" alt="" width="1027" height="667" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f0ad6b1a-a147-4640-a57a-7a9adc8aff33_1398x908.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:908,&quot;width&quot;:1398,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3254211,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>With <a href="https://typedetail.com/" rel="">Type Detail</a>, it needs further customization on title font and colors:</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif 1456w" alt="" width="1148" height="746" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/774599e8-7de2-46a2-ad61-bfffc5f8a81e_1398x908.gif&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:908,&quot;width&quot;:1398,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4495899,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
+<div class="image-link-expand"> </div>
+</div>
+</figure>
+</div>
+<p>As much as I tried to architect the code in anticipation of these customizations, a few surprises showed up here and there and took a few more rounds to finalize! This is only a simple pop-up modal; the last-mile problem will only be more significant for a full product!</p>
+<p>Today’s lesson: be prepared for the last-mile problem when making a product. The last leg of the journey can be the slowest and most expensive. Leave enough time and space to grind on the fit and finish.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Choose Typefaces Based on Brand Personalities</title>
         <author>
@@ -437,212 +690,6 @@
 <p>I started to notice the phenomenon while I was working at my corporate job. I have meetings each day that interrupt my design time, and because I was not able to enter the state of flow, I feel tired after work. The situation was improved when I started working for my startup, but as a founder, I need to pick tasks like marketing and sales. These new challenges become the new productivity killer.</p>
 <p>I think it may help to dedicate days to marketing/self-promotion solely. If I have some extra time on those days, I can relax and browse the Internet to find inspirations or do market research. These activities seem to go together because they have similar attention patterns. On other days, I dedicate all day to design/code/write.</p>
 <p>Do you have more tips on fighting unproductiveness? Let me know by commenting on the newsletter. I can’t wait to hear other ideas!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Learn by Practice: Three Lessons from My First Product Hunt Launch</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/lessons-from-my-first-product-hunt-launch/"/>
-        <id>https://typogram.co/build/lessons-from-my-first-product-hunt-launch/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-07-11T02:21:20-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/24/Cover-Image.png" alt="" />
-                    Yesterday, which is a Sunday, was a rather eventful day. It is&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/24/Cover-Image.png" alt="" />
-                <div class="captioned-image-container">
-<figure>
-<div class="image2-inset">
-<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Yesterday, which is a Sunday, was a rather eventful day. It is a day in history for apparent reasons, though I am here to document and summarize what happened in my small startup life. We launched our first product on </span><a href="https://www.producthunt.com/posts/brand-personality-workshop-kit" rel="" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Product Hunt</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">! There is a lot of learning that I can share with you from the launch.</span></div>
-</div>
-</figure>
-</div>
-<h4 class="header-with-anchor-widget">How does Product Hunt work?</h4>
-<p>Product hunt operates on a 24-hour interval. The clock resets at 00:00 pacific time (3 am in New York, where I live). All launched products during the 24 hours will show up under the Newest tab. The highest-voted product will show up in the Popular tab, which is the default tab that brings massive traffic. A note-worthy rule is that every product shares the same 24-hour interval. If your product is launched at 23:59 pacific time, it only has 1 minute of exposure.</p>
-<h4 class="header-with-anchor-widget">Lesson 1: Launch with a global mindset.</h4>
-<p>My original idea was to launch in the morning. I assumed people that I can reach is in a similar timezone as I am. I should promote during my daytime when my audience is active on Twitter or checking their Emails. Launching at 3 am is very counter-intuitive for me. I honestly forget the 3 am in New York would be 9 am somewhere else in the world. I should have had a global mindset when I planned for launch. The cryptocurrency market never closes, so is launching a product.</p>
-<h4 class="header-with-anchor-widget">Lesson 2: Product Hunt is not a great place to get paying customers.</h4>
-<p>While producthunt can brings traffic, it doesn’t convert to paying customers. Its visitors are not in the shopping mindset. They are in a discovery or research mindset. While I had sales through producthunt, it all came from direct audiences of my cofounder’s or mine. It didn’t help that my product was the only two that require payment on that day. The majority of launched products are free or offers a free tier. It is better to offer a free option and use producthunt as a channel to get exposure rather than paying customers.</p>
-<h4 class="header-with-anchor-widget">Lesson 3: Product Hunt weighs “authentic” upvotes more than friends and family votes.</h4>
-<p>Our product got 34 upvotes in total but didn’t get to the popular tab, while products with fewer votes did. I think that is due to the ranking algorithm. Votes from accounts with a long history are weighed more, while votes from freshly-opened accounts are weighed less or even penalized. If you are planning a producthunt launch, I suggest reaching out to a few producthunt users with a long history and securing their vote upfront to get your product on the Popular tab.</p>
-<h4 class="header-with-anchor-widget">❧</h4>
-<div id="§" class="header-anchor-widget offset-top">
-<div class="header-anchor-widget-button-container">
-<div class="header-anchor-widget-button"> </div>
-</div>
-</div>
-<p>I think this is a good learning experience. I was very fearful to launch on producthunt before because I was overthinking it. This experience debunks many misperceptions about launching on producthunt and gives me some ideas of how to run a successful launch. I need to learn by practicing, be it making sales or launching a product on an unfamiliar platform.</p>
-<p>Thanks for tuning in! If you could share my newsletters with friends who may enjoy the content, I would really appreciate it!</p>
-<div><hr></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sell Fast, Sell Often: How Selling Can Help You Sell</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/startup-how-to-sell-my-product/"/>
-        <id>https://typogram.co/build/startup-how-to-sell-my-product/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-07-09T01:50:48-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/22/Cover-Image.png" alt="Sell Fast, Sell Often: How Selling Can Help You Sell" />
-                    Firstly I would like to apologize for today’s title: it is a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/22/Cover-Image.png" alt="Sell Fast, Sell Often: How Selling Can Help You Sell" />
-                <div class="captioned-image-container">
-<figure>
-<div class="image2-inset">
-<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Firstly I would like to apologize for today’s title: it is a dumb joke; a parody of the famous startup bible: “Fail Fast, Fail Often: How Losing Can Help You Win,” obviously made up by a person with IQ on the lower end - me.</span></div>
-</div>
-</figure>
-</div>
-<p>On a serious note, I agree with “fail fast, fail often.” However, surprisingly, it is not easy to fail fast, let alone often.</p>
-<p>For starters, you need to launch something first to fail fast. Launching a product could take forever. The perfectionist may get the better of you. Instead of MVP, before you know it, you are choosing the perfect tech stack, executing the perfect feature set, grinding the perfect UI/UX, refactoring to write the perfect code. Why? Because anything less is not good enough to represent you, not good enough to have your name signed to it. Your pride gets the better of you.</p>
-<p>Secondly, you need to have a definition of failure to fail fast. I did many passion projects before, and there is no definition of failure for a passion project. Getting a Twitter follower is a win for me; having 100 site visitors is a win for me. It is impossible to fail a passion project. The root problem is that you are not asking much in return for your effort. Taking to step forward to “ask” is difficult because you may fail and get rejected, especially to ask for money. Your pride gets the better of you, again.</p>
-<p>I launched a product today! I used Notion as a #NoCode tool to develop the minimum viable feature set. Notion is not the perfect tech stack, but it offers many advantages, such as built-in live collaborations.</p>
-<p>I charge money for it! It is priced at $10. I am running a sale with a coupon code “limitedsale” to offer $9 off for a limited time.</p>
-<p>It is my first time selling. I want to see what works and what doesn’t. One thing I know for sure: designing helped me get better at design; selling will help me get at making sales! I want to sell and learn as much as possible in the process. Check it my first launched product: <a href="https://wentin.gumroad.com/l/brand-workshop" target="_blank" rel="noopener noreferrer">Brand Personality Workshop Kit</a>!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Made Money While I Slept</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/how-to-make-money-while-you-sleep/"/>
-        <id>https://typogram.co/build/how-to-make-money-while-you-sleep/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-07-11T02:20:46-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/23/Cover-Image-2.png" alt="how to make money while you sleep" />
-                    This morning I woke up to some Gumroad emails that I made&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/23/Cover-Image-2.png" alt="how to make money while you sleep" />
-                <p>This morning I woke up to some Gumroad emails that I made several sales from the <a href="https://wentin.gumroad.com/l/brand-workshop" target="_blank" rel="noopener noreferrer">brand personality workshop kit</a>. It gives me tremendous encouragement. Two-thirds of the sales came from the newsletter readers, you! I can’t say how much I appreciate it; it means a lot to me, thank you!</p>
-<p>That gives me a significant mental shift. I have made money via my passion projects, primarily by publishing ads on my sites, but never by charging for the project itself. It gives me confirmation that this route could work. I need to work harder, finding more pain points and good solutions to address them, and that is all!</p>
-<p>A few of my readers have written to me expressing they will be joining me on a similar path. I want to share a few quotes that clicked with me while I was making the hard decisions. Maybe they can bring you courage too, and make the decision less scary.</p>
-<blockquote>
-<p>“You are not going to get rich renting out your time. You must own equity—a piece of the business—to gain your financial freedom.”</p>
-</blockquote>
-<p>This quote clicked with me at “renting out your time.” It is not the prettiest way to describe employment, but there is some truth to it. I think passion plays a significant role in this: if employment is the only way to do the work you are passionate about, then forget about the whole renting out your time thing. You would spend the time doing it nevertheless. But if you have itches that are outside of your work, and you would prefer to spend time on them even when not being paid, then maybe the phrase will start to hit you the same way it hit me.</p>
-<blockquote>
-<p>“If you don’t build your dreams, then someone else will hire you to build theirs.”</p>
-</blockquote>
-<p>This quote clicked with me at “building someone else’s dream.” I think working in big corporate, the dreamer often is too rich that I wouldn’t care to help build their dream, like Jeff Bezos. Jeff Bezos thanked all Amazon employees for paying for his outer space ride. Exactly.</p>
-<blockquote>
-<p>Fact: There are three types of income: </p>
-<ul>
-<li>
-<p>earned income (e.g., W2 salary)</p>
-</li>
-<li>
-<p>business income (e.g., startup company)</p>
-</li>
-<li>
-<p>investment income (e.g., stocks)</p>
-</li>
-</ul>
-<p>Earned income is the most taxed income in the United States (and maybe elsewhere too). </p>
-</blockquote>
-<p>This fact is why wealthy people pay fewer taxes; they have little to no earned income. It shocked me when I first learned this, and I started sharing it with people around me. It turned out that most people didn’t know that either. I don’t think it is fair, but what can I do other than diversify my income to the other two types?</p>
-<p>If you are thinking about quitting your full-time job and would like to share your story, feel free to chat with me by replying to the newsletter, I am all ears! Thanks for tuning in!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Design to Please</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/build/startup-brand-personality-workshop-kit/"/>
-        <id>https://typogram.co/build/startup-brand-personality-workshop-kit/</id>
-            <category term="30DaysOfStartingUp"/>
-
-        <updated>2023-06-28T03:27:47-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/build/media/posts/21/Cover-Image.png" alt="Design to Please" />
-                    Hey friend! Did I mention that I am a type nerd? Yes,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/build/media/posts/21/Cover-Image.png" alt="Design to Please" />
-                <div class="captioned-image-container">
-<figure>
-<div class="image2-inset">
-<div class="image-link-expand"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Hey friend! Did I mention that I am a type nerd? Yes, my past few years of career orbit around typography. </span><a href="https://typedetail.com/georgia.html" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Here</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://cssicon.space/#/icon/search" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">is</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://minion.typekit.com/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">some</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://source.typekit.com/source-han-serif/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">proof</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">, </span><a href="https://css-mono.wentin.net/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://typogram.github.io/Anicons/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">made</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://crafting-interactions.wentin.net/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">all</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://vertical.wentin.net/" rel="" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">of</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> </span><a href="https://research.wentin.net/#/" target="_blank" rel="noopener noreferrer" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">these</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">.</span></div>
-</div>
-</figure>
-</div>
-<p>Saying that I am a type nerd also slips the information away that I am a design minimalist - I like simple, black and white, typography-centric design. I hesitate to incorporate photography into my work. I prefer Adobe Illustrator over Photoshop.</p>
-<p>Today, merely day #8 into my startup life, all of that have changed! I spent a whole day designing this:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png 1456w" alt="" width="1456" height="971" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/3e71d6e7-25e6-4b75-9e1a-242ccd61f511_2160x1440.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2894955,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>and this:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png 1456w" alt="" width="1456" height="971" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/27f9dbef-1bbc-4e4c-976f-f9e0dd326aaf_2160x1440.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4189668,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>These are the images for the Brand Personality Workshop Kit sales page. When I kicked off today’s work, I started by looking at marketing design examples. A few trends I noticed:</p>
-<ul>
-<li>
-<p>Colorful, highly saturated colors</p>
-</li>
-<li>
-<p>Incorporate photography or 3D objects</p>
-</li>
-</ul>
-<p>In other words, I discovered that a prettified version of a real-life scene is more marketable than a pure 2D digital style. That made sense! In a digital product marketplace, everything is digital inherently; digital style doesn’t draw attention anymore. I see a lot of people are calling back the old-school “software in a box” to their digital product marketing, for example:</p>
-<div class="captioned-image-container">
-<figure>
-<div class="image2-inset"><figure class="sizing-normal"><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 1456w" sizes="100vw"><img loading="lazy"  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png 1456w" alt="" width="1456" height="850" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/88f61f5b-6e42-4fef-bc0b-c78224b745c4_2010x1173.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:850,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1239108,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure></picture>
-<div class="image-link-expand"> </div>
-</div>
-</figure>
-</div>
-<p>I teach design at the School of Visual Arts in New York. In one of my classes, I tell students always to be aware of trends, to serve two purposes:</p>
-<ol>
-<li>
-<p>avoid the trend when needed</p>
-</li>
-<li>
-<p>follow the trend when needed</p>
-</li>
-</ol>
-<p>Today is one of the situations that I have decided to follow the trend. I am designing to please the eyes of site visitors. No, there is no shame in that! Design is to solve a problem. Today the problem is how do I grab people’s attention in a busy marketplace, so they would stop and look at what I am offering. The solution I found is “Design to Please.”</p>
-<p>Designers should develop their styles, and I do have a style preference, shown in the work I linked in the first paragraph. But it doesn’t hurt to do something else when the problem needs me to. It was an enjoyable break from the style I am familiar with.</p>
-<p>Yesterday, I got some great tips and advice! Thank you! Let me know what you think of the graphics I designed by replying to the email. Is there any way I can improve them before launching the product page? Is it clear that I am selling a brand personality workshop kit in the form of printable PDF and Notion templates?</p>
             ]]>
         </content>
     </entry>
