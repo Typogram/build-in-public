@@ -3,7 +3,7 @@
     <title>Typogram Build-in-Public</title>
     <link href="https://typogram.co/build/feed.xml" rel="self" />
     <link href="https://typogram.co/build" />
-    <updated>2023-07-17T23:28:29-04:00</updated>
+    <updated>2023-07-17T23:37:26-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/build/our-favorite-tools-as-indiehackers/</id>
             <category term="Founding Typogram"/>
 
-        <updated>2023-07-17T23:28:29-04:00</updated>
+        <updated>2023-07-17T23:37:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/build/media/posts/44/Newsletter-Cover-Image.png" alt="Our Favorite Tools as Indiehackers " />
@@ -32,6 +32,7 @@
 <hr>
 <h2><span style="font-weight: 400;">Dev Tools </span></h2>
 <h5><em><span style="font-weight: 400;">Speeding up your workflow! </span></em></h5>
+<h3> </h3>
 <h3><span style="font-weight: 400;">GitLens — Git supercharged</span></h3>
 <p><a href="https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens"><span style="font-weight: 400;">Link</span></a></p>
 <p><span style="font-weight: 400;">I had been using the default in-the-box “Git” feature in VS Code. Recently I needed to make some advanced code comparisons, and that is when I found out why people are crazy about this GitLens plugin! </span></p>
@@ -59,7 +60,8 @@
 <p> </p>
 <hr>
 <h2><span style="font-weight: 400;">Design</span></h2>
-<p><span style="font-weight: 400;">Pleasing the eye and heart!</span></p>
+<h5><em><span style="font-weight: 400;">Pleasing the eye and heart!</span></em></h5>
+<h3> </h3>
 <h3><span style="font-weight: 400;">Typogram’s Brand Personality Workshop</span></h3>
 <p><a href="https://workshop.typogram.co/"><span style="font-weight: 400;">Link </span></a></p>
 <p><span style="font-weight: 400;">Our very own Brand Personality Workshop helps you jumpstart the branding process. Available in both paper and digital versions, you can use this self-pace workshop packet to identify the brand personality for your company and start your brand design journey. </span></p>
@@ -112,6 +114,7 @@
 <hr>
 <h1><span style="font-weight: 400;">Food for the Brain </span></h1>
 <h5><em><span style="font-weight: 400;">Making us smart!</span></em></h5>
+<h3> </h3>
 <h3><span style="font-weight: 400;">Work Log </span></h3>
 <p><a href="https://method.ac/writing/"><span style="font-weight: 400;">Link</span></a></p>
 <p><span style="font-weight: 400;">I have been following this work log on and off for 2 or 3 years. I always find something relatable in its writings, either a struggle that I was having or a feeling that I share, especially now as a founder.</span></p>
